@@ -8,7 +8,7 @@ Our task is to build a Timeline component.  When we're finished, it should look 
 Within the ClearMetal application, the simplest way to understand the status of your shipment is to view it in it's timeline form.  
 Whether you're viewing a Booking, a Purchase Order, or something else, this view is essential to getting a "quick view" of your shipment.  
 
-Here's what a timeline like in our application
+Here's what a timeline looks like in our application
 ![Example One](/screen_shot.png "Optional Title")
 
 
@@ -17,6 +17,7 @@ Here's what a timeline like in our application
 * Elements within the timeline should be evenly spaced apart
 * Each element should have a circular icon above it
 * An element should be centered below the circular icon
+* A horizontal line should connect the icons together
 * A developer should be able to easily specify the color of the icon
 
 ## What we are measuring:
@@ -26,4 +27,4 @@ Here's what a timeline like in our application
 
 
 ## Repository information:
-This is repository simply a clone of [Create React App](https://github.com/facebook/create-react-app)
+This repository is simply a clone of [Create React App](https://github.com/facebook/create-react-app)
